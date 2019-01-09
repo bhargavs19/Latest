@@ -1,1 +1,1 @@
-# LatestThis is Practice Repository
+This is Practice Repository
